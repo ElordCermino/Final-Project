@@ -3,7 +3,7 @@
 ![Joe Elord C. Cermino](pfp.jfif)
 ![stars](stars.png) 
 ![Hero](hero.png)
-
+![stars](stars.png) 
 ## About Me
 
 **Name:** Joe Elord C. Cermino  
