@@ -1,5 +1,6 @@
 # 21st Century IT Skills Digital Portfolio — Joe Elord C. Cermino
 ![eagle head](eaglehead.png) 
+![stars](stars.png) 
 ![Joe Elord C. Cermino](pfp.jfif)
 ![stars](stars.png) 
 ![Hero](hero.png)
