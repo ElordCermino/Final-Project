@@ -12,7 +12,7 @@
 **School:** Ateneo de Davao University  
 
 I am a Student Nurse at Ateneo de Davao University with broad clinical exposure across medical-surgical, perioperative, emergency, maternal and child, and psychiatric nursing in tertiary and community settings. I am a Dean's List awardee and Basic Life Support (BLS) certified, with a strong interest in combining clinical nursing practice with modern digital tools, visual communication, and healthcare technology.
-
+![stars](stars.png) 
 ## Skills & Tools Learned
 
 - **Version Control & Documentation:** Git, GitHub, Markdown
