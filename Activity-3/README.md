@@ -1,0 +1,35 @@
+# Activity 3: Social Media Infographics and Mini Project Documentation
+
+> Present your output and explain its concept, design choices, and creative process.
+
+![Activity 3](Activity3.png)
+
+---
+
+## What I Created
+
+I created “From Strained to Sustained: A Structured Stress and Time-Management System for Nursing Students,” a proposed system designed to help nursing students manage academic demands, clinical responsibilities, deadlines, and stress. It combines task prioritization, workload monitoring, study scheduling, and planned rest periods in one organized system.
+
+## Why I Came Up With the Concept
+
+As student nurses, we often see and experience these kinds of problems lately; multiple exams, clinical preparations, requirements, duty schedules, and deadlines happening at the same time. This can make it difficult to prioritize tasks and maintain a healthy balance between studying and resting. I came up with this concept because nursing students need a practical system that can help prevent tasks from piling up while also supporting their well-being.
+
+## How I Developed My Final Output
+
+I first identified the common problems experienced by nursing students, particularly stress, academic workload, difficulty prioritizing tasks, and lack of sufficient rest. I then organized these problems into a simple system that focuses on task tracking, deadline reminders, study periods, and scheduled breaks. Finally, I presented the concept through an infographic to make the information easy to understand and visually engaging for nursing students.
+
+## Design Choices
+
+I used a blue and white color scheme to create a clean, professional, and calming appearance while still reflecting the healthcare setting and the Atenan colors. Nursing-themed illustrations and icons were incorporated to make the infographic relatable to nursing students. The information was divided into clear sections—The Reality, The Core Problem, Our Solution, System Features, and Expected Impact—so the reader can easily follow the problem-to-solution flow.
+
+## Creative Process
+
+My creative process began with observing the struggles commonly encountered by student nurses, including overwhelming workloads, multiple deadlines, clinical preparation, and limited time for rest. I brainstormed ways technology or a structured system could address these concerns. I then developed the concept, organized the content, selected appropriate visuals, and refined the layout to create a concise infographic that communicates how students can move from feeling strained to becoming more organized and sustained.
+
+## What Have I Learned?
+
+- **Key Concepts & Skills:** I learned how to structure complex ideas into a clear problem-to-solution narrative using visual storytelling and sectioning in an infographic.
+- **Challenge & Solution:** Condensing the many stressors of nursing school into a concise, scannable layout without overcrowding the page was challenging; I solved this by grouping content into five clear sections and using a calming blue-and-white palette.
+- **Future Application:** I can use infographic design to communicate patient education, clinical workflows, and community health campaigns more effectively in the future.
+
+<img width="480" height="260" alt="f65e8198c1e12ea6c745aadd62f8aefb" src="https://github.com/user-attachments/assets/81ca38cd-755b-4f36-81c5-8bdb2603a9f0" />

@@ -1,0 +1,39 @@
+# Activity 2: Color Palette and Typography
+
+> Explain your chosen colors and typography and why you selected them.
+
+![Activity 2](Activity2.png)
+
+---
+
+## What I Created
+
+I created a color palette and typography set that explains the color combination and font choices used for my company logo. It presents the primary and secondary colors alongside the selected typefaces.
+
+## Why I Came Up With the Concept
+
+I wanted to create a simple visual guide that clearly explains the design choices behind the company logo. I was inspired by the minimalistic color palette of Atenean apparel, particularly its use of a deep prussian blue tone as a strong primary color.
+
+## How I Developed My Final Output
+
+I focused on keeping the design minimal and professional by using only two main colors and pairing them with classic, readable typefaces. I arranged the color swatches, logo, and typography samples in a balanced layout so each element is easy to identify.
+
+## Color Palette
+
+The palette uses Dark Indigo (#110750) as the primary color at 75% and Light Grey (#D9D9D9) as the secondary color at 25%. The dark indigo provides a strong and professional visual identity, while the light grey creates contrast and keeps the overall design clean.
+
+## Typography
+
+I used Recoleta for prominent headings and branding elements because of its bold and distinctive appearance. RoxboroughCF was used as a complementary typeface to add elegance while maintaining consistency with the logo's overall style.
+
+## Why I Selected Them
+
+I selected these colors and typefaces because they create a minimalistic, professional, and cohesive brand identity. The dark blue combination was influenced by Atenean Apparel's use of Prussian blue as a primary color, while the light grey provides balance and prevents the design from feeling too heavy.
+
+## What Have I Learned?
+
+- **Key Concepts & Skills:** I learned how to build a cohesive brand identity using a structured 75%/25% color ratio (Dark Indigo `#110750` and Light Grey `#D9D9D9`) and intentional font pairing (`Recoleta` and `RoxboroughCF`).
+- **Challenge & Solution:** Choosing a minimal two-color palette that still felt distinctive and not too heavy was tricky; I solved this by using light grey as a neutral counterbalance to the deep indigo.
+- **Future Application:** I can apply this systematic approach to color and typography when creating professional nursing portfolios, slide decks, and digital health materials.
+
+<img width="220" height="327" alt="rene" src="https://github.com/user-attachments/assets/a626390e-2cf3-4154-aa8c-2dd10f458a01" />
