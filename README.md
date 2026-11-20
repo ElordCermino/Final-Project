@@ -1,7 +1,7 @@
 # 21st Century IT Skills Digital Portfolio — Joe Elord C. Cermino
-
+![eagle head](eaglehead.png) 
 ![Joe Elord C. Cermino](pfp.jfif)
-
+![stars](stars.png) 
 ![Hero](hero.png)
 
 ## About Me
@@ -19,7 +19,7 @@ I am a Student Nurse at Ateneo de Davao University with broad clinical exposure 
 - **AI & Productivity:** Prompt engineering and comparative LLM evaluation (ChatGPT, Gemini, Claude)
 - **Web Development:** AI-assisted static website creation, asset management, Replit, and GitHub Pages
 
----
+![stars](stars.png) 
 
 ## Activities and Submissions
 
@@ -35,7 +35,7 @@ I am a Student Nurse at Ateneo de Davao University with broad clinical exposure 
 | 6 | [Activity 6: Personal Resume Website](Activity-6/README.md) | One-page interactive nursing resume website via AI-assisted web development |
 | 7 | [Activity 7: Comparative Resume Generation using Multiple LLMs](Activity-7/README.md) | Comparing ClaudeAI and ChatGPT outputs for resume generation |
 
----
+![stars](stars.png) 
 
 ## Reflection: Building and Managing This Digital Portfolio
 
@@ -52,3 +52,4 @@ Each activity is organized into its own dedicated folder (`Activity-1` through `
 - **File naming consistency** — Early on, inconsistent casing for image files caused broken links on case-sensitive systems. I standardized filenames and updated Markdown references accordingly.
 - **Large image sizes** — High-resolution screenshots were slow to load, so I compressed them before committing to keep the repository lightweight.
 - **README structure** — Organizing the portfolio into a clean About Me section and a structured activity table made the repository easy to navigate at a glance.
+![eagleclaw](eagleclaw.png) 
